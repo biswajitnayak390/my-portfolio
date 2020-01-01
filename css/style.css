@@ -1,0 +1,219 @@
+body
+{
+font-family: 'Merriweather', serif;
+  margin:0;
+  font-size:
+
+  text-align:centre;
+  background-color:#e8f1f9;
+
+
+
+}
+h1
+{ color:#4f98ca;
+   margin:0;
+   font-family: 'Sacramento', cursive;
+   font-size: 4.2em;
+   text-align:center;
+
+
+}
+h2
+{  color:#4f98ca;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+   font-weight: normal;
+
+}
+h3
+{
+  color:#4f98ca;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+
+}
+p
+{
+  font-family: 'Merriweather', serif;
+  text-align: center;
+
+}
+.sky
+{
+
+}
+.Top-containor
+{
+
+
+  position: relative;
+
+
+
+
+
+}
+.bottom-container
+{
+  background-color: #d89cf6;
+  margin-top: 2%;
+  padding: 30px 0 15px ;
+  text-align: center;
+
+}
+.Middle-containor
+{
+
+position: relative;
+
+text-align: center;
+
+
+}
+
+.biswajit1
+{color:#4f98ca;
+  position:absolute;
+  top:30%;
+  left:40%;
+}
+.biswajit2
+{color:#4f98ca;
+  position:absolute;
+  font-size: 150%;
+  top:50%;
+  left:40%;
+   font-weight:bold;
+}
+
+
+.birds
+{
+  position: absolute;
+  top:30%;
+  left:10%;
+  height: 90%;
+}
+.skills
+{
+  position: relative;
+}
+.image
+{
+  position: absolute;
+  left:50%;
+}
+.profile
+{
+
+}
+.img1
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.hello
+{
+font-family: 'IBM Plex Serif', serif;
+
+}
+.skill-row
+{
+width: 50%;
+margin:100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+
+hr{
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width:5px;
+  width:30px;
+  padding-bottom: 30px;
+
+}
+a{
+  text-align: center;
+}
+ul{
+
+  margin:0 auto;
+}
+.codeimg
+{
+  width: 30%;
+  float: left;
+}
+.design{
+margin-left: 2%;
+}
+.certificate
+{
+  width: 30%;
+  float: right;
+  margin-left: 10%;
+
+}
+
+.certificate-desc
+{
+
+  margin-right: 2%;
+
+}
+.intro
+{
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+.contact-message
+{
+  width: 40%;
+  margin:2% auto 2.5%;
+
+}
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	background:linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
+	background-color:#79bbff;
+	border-radius:12px;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:11px 24px;
+	text-decoration:none;
+	text-shadow:2px 8px 20px #528ecc;
+  position: relative;
+  left: 42%;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #378de5 5%, #79bbff 100%);
+	background-color:#378de5;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+a{
+margin: 10px 20px;
+
+
+}
+.copyright
+{
+  color:#e8f1f9;
+  padding: 20px;
+}
